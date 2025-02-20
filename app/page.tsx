@@ -19,7 +19,7 @@ export default function Home() {
       </Canvas>
       
       <div className="fixed bottom-0 left-0 p-2">
-        <p>Next.js based template for Three.js websites</p>
+        <p>Next.js based for Three.js websites</p>
         <p>full stack: Next.js, Typescript, Tailwindcss, Three.js, React Three Fiber</p>
         <p>
           extra packages:
